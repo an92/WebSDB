@@ -102,7 +102,7 @@
 		}
 	}
 	</script>
-
+<link rel='stylesheet' id='twentytwelve-style-css'  href='./CSS/Theme.css' type='text/css' media='all' />
 </head>
 <body>
 <body class="page page-id-10 page-template page-template-page-templatesfull-width-php full-width custom-font-enabled single-author">

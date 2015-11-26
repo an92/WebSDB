@@ -9,13 +9,13 @@
 	<meta name="viewport" content="width=device-width" />
 	<title>Home | SecretEPDB DB</title>
 	<link rel="shortcut icon" href="pics/myicon.ico" type="image/x-icon" />
-	<link rel="profile" href="http://gmpg.org/xfn/11" />
-	<link rel="pingback" href="http://lightning.med.monash.edu/kinetochore/xmlrpc.php" />
-	<link rel="alternate" type="application/rss+xml" title="kinetochore &raquo; Feed" href="http://lightning.med.monash.edu/kinetochore/?feed=rss2" />
-	<link rel="alternate" type="application/rss+xml" title="kinetochore &raquo; Comments Feed" href="http://lightning.med.monash.edu/kinetochore/?feed=comments-rss2" />
-	<link rel="alternate" type="application/rss+xml" title="kinetochore &raquo; Introduction Comments Feed" href="http://lightning.med.monash.edu/kinetochore/?feed=rss2&#038;page_id=10" />
+	<link rel="profile" href="" />
+	<link rel="pingback" href="" />
+	<link rel="alternate" type="application/rss+xml" title="kinetochore &raquo; Feed" href="" />
+	<link rel="alternate" type="application/rss+xml" title="kinetochore &raquo; Comments Feed" href="" />
+	<link rel="alternate" type="application/rss+xml" title="kinetochore &raquo; Introduction Comments Feed" href="" />
 	<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
-	<link rel='stylesheet' id='twentytwelve-style-css'  href='http://lightning.med.monash.edu/kinetochore/wp-content/themes/twentytwelve/style.css?ver=3.5.1' type='text/css' media='all' />
+	<link rel='stylesheet' id='twentytwelve-style-css'  href='./CSS/Theme.css' type='text/css' media='all' />
 	<script type='text/javascript' src='http://lightning.med.monash.edu/kinetochore/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
 	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://lightning.med.monash.edu/kinetochore/xmlrpc.php?rsd" />
 	<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://lightning.med.monash.edu/kinetochore/wp-includes/wlwmanifest.xml" /> 
@@ -40,20 +40,18 @@
 					<div class="nav-menu">
 						<ul>
 							<li class="page_item page-item-10 current_page_item" ><a href="http://lightning.med.monash.edu/kinetochoreDB2/" title="Home">Home</a></li>
-							<li ><a href="http://lightning.med.monash.edu/kinetochoreDB2/Statistics.html">Statistics</a></li>
-							<li  ><a href="http://lightning.med.monash.edu/kinetochoreDB2/Search.jsp">Search</a></li>
-							<li ><a href="http://lightning.med.monash.edu/kinetochoreDB2/searchDBwithAll?db=all">Browse</a></li>
-							<li ><a href="http://lightning.med.monash.edu/kinetochoreDB2/download.html">Download</a></li>
-							<li ><a href="http://lightning.med.monash.edu/kinetochoreDB2/Help.html">Help</a></li>
-							<li ><a href="http://lightning.med.monash.edu/kinetochoreDB2/Contact.html">Contact</a></li>
-							<li ><a href="http://lightning.med.monash.edu/kinetochoreDB2/Submission.html">Submission</a></li>																							
+							<li ><a href="">Statistics</a></li>
+							<li  ><a href="">Search</a></li>
+							<li ><a href="">Browse</a></li>
+							<li ><a href="">Download</a></li>
+							<li ><a href="">Help</a></li>
+							<li ><a href="">Contact</a></li>
+							<li ><a href="">Submission</a></li>																							
 						</ul>
 					</div>
 
-				</nav><!-- #site-navigation -->
-		</header><!-- #masthead -->
-	
-		
+				</nav>
+		</header>
 		<div id="main" class="wrapper">
 			<div id="primary" class="site-content">
 				<div id="content" role="main">																																							
